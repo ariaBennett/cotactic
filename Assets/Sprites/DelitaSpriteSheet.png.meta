@@ -1,0 +1,2619 @@
+fileFormatVersion: 2
+guid: f419d3e8e46dde04c880c93d51aae4a4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DelitaSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 362
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 361
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 361
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 362
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 362
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 364
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 363
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 377
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 12
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 360
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 360
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 361
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 362
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 363
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 362
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 375
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 361
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 361
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 361
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 361
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 361
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 364
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 363
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 376
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 361
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 359
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 360
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 322
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 322
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 325
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 324
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 322
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 11
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 344
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 320
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 320
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 324
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 322
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 321
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 321
+        width: 10
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 343
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 321
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 321
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 321
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 321
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 321
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 321
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 321
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 344
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 326
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 328
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 283
+        width: 11
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 303
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 303
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 304
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 303
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 305
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 304
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 305
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 304
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 281
+        width: 11
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 305
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 304
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 304
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 303
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 304
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 303
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 304
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 304
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 305
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 281
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 306
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 305
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 305
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 304
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 305
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 304
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 305
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 305
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 306
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 283
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 278
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 286
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 277
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 283
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 278
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 281
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 281
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 282
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 281
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 277
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 282
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 277
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 280
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 278
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 280
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 280
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 279
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 282
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 278
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 283
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 278
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 281
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 279
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 280
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 281
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 280
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 260
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 259
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 259
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 259
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 255
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 256
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 251
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 259
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 256
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 258
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 258
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 253
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 254
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 256
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 257
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 256
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 253
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 260
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 257
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 259
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 259
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 254
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 252
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 257
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 258
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 220
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 232
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 243
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 219
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 242
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 221
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 232
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 243
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 228
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 227
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 224
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 220
+        width: 30
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 219
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 232
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 226
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 228
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 223
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 217
+        width: 32
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 221
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 231
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 224
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 231
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 224
+        width: 25
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 218
+        width: 33
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 220
+        width: 34
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 232
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 218
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 209
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 217
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 207
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 218
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 208
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 189
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 202
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 201
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 202
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 200
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 187
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 201
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 201
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 201
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 200
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 201
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 195
+        width: 20
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 188
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 203
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 202
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 202
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 201
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 202
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 197
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 187
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 186
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 186
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 184
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 184
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 188
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 186
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 185
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 185
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 183
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 185
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 187
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 187
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 187
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 187
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 184
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 186
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 188
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 157
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 170
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 170
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 172
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 170
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 153
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 152
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 174
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 155
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 169
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 169
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 170
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 168
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 152
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 151
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_228
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 173
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_229
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 156
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_230
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 171
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_231
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 171
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_232
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 170
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_233
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 168
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_234
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 153
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_235
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 152
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_236
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 175
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_237
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 155
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_238
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 155
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_239
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 155
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_240
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 155
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_241
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 152
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_242
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 153
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_243
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 153
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_244
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 153
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_245
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 154
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_246
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 151
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_247
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 154
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_248
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 154
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_249
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 154
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_250
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 154
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_251
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 152
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_252
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 128
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_253
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_254
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_255
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 138
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_256
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 138
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_257
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 130
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_258
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 130
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_259
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 137
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_260
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 137
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_261
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 129
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_262
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 130
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_263
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 92
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_264
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 130
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_265
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 130
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_266
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 137
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_267
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 138
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_268
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_269
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 129
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_270
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 90
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_271
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 123
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_272
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 128
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_273
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 128
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_274
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 127
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_275
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 90
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_276
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 122
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_277
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 129
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_278
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 121
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_279
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_280
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 115
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_281
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 114
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_282
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 114
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_283
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 114
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_284
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 114
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: DelitaSpriteSheet_285
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 22
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
