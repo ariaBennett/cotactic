@@ -1,9 +1,12 @@
 ﻿#pragma strict
 
+var enviroment : Transform;
 
 function Start () {
 
 }
+
+
 
 function Update () {
  
@@ -15,7 +18,7 @@ function Update () {
       var ray : Ray = Camera.main.ScreenPointToRay(Input.mousePosition);
       if (Physics.Raycast(ray, hit)) {
         var objectHit = hit.transform;
-        if (objectHit.parent.tag.Contains("Enviroment")) {
+        if (objectHit.IsChildOf(enviroment)) {
         
           // Get currentUnit from camera
           var unit : Unit;

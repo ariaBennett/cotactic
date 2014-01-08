@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{FD2656F3-9061-19F2-4C99-CC5E13A1843C}") = "Cotactic", "Assembly-CSharp-firstpass.csproj", "{66B76167-2694-13A7-CCF2-D8E998458274}"
+EndProject
 Project("{FD2656F3-9061-19F2-4C99-CC5E13A1843C}") = "Cotactic", "Assembly-CSharp.csproj", "{850F72B4-77B2-CBFD-B327-A9A979DF95DF}"
 EndProject
 Project("{FD2656F3-9061-19F2-4C99-CC5E13A1843C}") = "Cotactic", "Assembly-CSharp-Editor.csproj", "{75989384-75D3-A9B5-919F-05BD2FF41C0E}"
@@ -13,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B76167-2694-13A7-CCF2-D8E998458274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B76167-2694-13A7-CCF2-D8E998458274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B76167-2694-13A7-CCF2-D8E998458274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B76167-2694-13A7-CCF2-D8E998458274}.Release|Any CPU.Build.0 = Release|Any CPU
 		{850F72B4-77B2-CBFD-B327-A9A979DF95DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{850F72B4-77B2-CBFD-B327-A9A979DF95DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{850F72B4-77B2-CBFD-B327-A9A979DF95DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +35,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
+											GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -47,4 +53,5 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
+
 EndGlobal

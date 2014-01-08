@@ -15,10 +15,10 @@ function create(name : String, position : Vector3, scale : Vector3) {
 }
 
 function destroy(name : String) {
-/*
+
   var highlightTileEffects = GameObject.FindGameObjectsWithTag("HighlightEffect");
   for (var i = 0; i < highlightTileEffects.length; i++) {
     Destroy(highlightTileEffects[i]);
   }
-  */
+  
 }
